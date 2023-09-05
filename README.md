@@ -16,14 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+  Jaouad Afkerin
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  Blauwe piste
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
- 
+  Surface plane 
 </details>
 
 
@@ -36,16 +35,25 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  Site van Ajax:
+  https://www.ajax.nl
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Homepagina 
+  <img src="readme-images/Home-1.PNG" width="375px" alt="Homepagina">
+  <img src="readme-images/Home-2.PNG" width="375px" alt="Homepagina">
+  <img src="readme-images/Home-3.PNG" width="375px" alt="Homepagina">
+  <img src="readme-images/Home-4.PNG" width="375px" alt="Homepagina">
+  <img src="readme-images/Home-5.PNG" width="375px" alt="Homepagina">
+  <img src="readme-images/Home-6.PNG" width="375px" alt="Homepagina">
+  <img src="readme-images/Home-7.PNG" width="375px" alt="Homepagina">
+  <img src="readme-images/Home-8.PNG" width="375px" alt="Homepagina">
+  <img src="readme-images/Home-9.PNG" width="375px" alt="Homepagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
- 
+  Sponsors & Partners 
+  <img src="readme-images/Sponsors-1.PNG" width="375px" alt="Sponsors"> 
+  <img src="readme-images/Sponsors-2.PNG" width="375px" alt="Sponsors"> 
 </details>
 
 
