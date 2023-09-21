@@ -22,7 +22,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Blauwe piste
 
   #### Je focus:
-  Surface plane 
+  Surface plane
 </details>
 
 
@@ -38,8 +38,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Site van Ajax:
   https://www.ajax.nl
 
-  #### Screenshot(s) van de eerste pagina (small screen): 
-  Homepagina 
+  #### Screenshot(s) van de eerste pagina (small screen):
+  Homepagina
   <img src="readme-images/Home-1.PNG" width="375px" alt="Homepagina">
   <img src="readme-images/Home-2.PNG" width="375px" alt="Homepagina">
   <img src="readme-images/Home-3.PNG" width="375px" alt="Homepagina">
@@ -51,9 +51,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/Home-9.PNG" width="375px" alt="Homepagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  Sponsors & Partners 
-  <img src="readme-images/Sponsors-1.PNG" width="375px" alt="Sponsors"> 
-  <img src="readme-images/Sponsors-2.PNG" width="375px" alt="Sponsors"> 
+  Sponsors & Partners
+  <img src="readme-images/Sponsors-1.PNG" width="375px" alt="Sponsors">
+  <img src="readme-images/Sponsors-2.PNG" width="375px" alt="Sponsors">
 </details>
 
 
@@ -75,13 +75,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <details>
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
-  ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  ### de hele pagina:
+  <img src="readme-images/Breakdown1.png" width="375px" alt="breakdown van het eerste deel">
+  <img src="readme-images/Breakdown2.png" width="375px" alt="breakdown van het tweede deel">
+  <img src="readme-images/Breakdown3.png" width="375px" alt="breakdown van het derde deel">
+  <img src="readme-images/Breakdown4.png" width="375px" alt="breakdown van het vierde deel">
 
-  ### dynamisch deel (bijv menu): 
+  ### dynamisch deel (bijv menu):
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
-  ### wellicht nog een dynamisch deel (bijv filter): 
+  ### wellicht nog een dynamisch deel (bijv filter):
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
@@ -129,17 +132,34 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  HTML:
+  De basis van de html ging voor mijn gevoel opzich prima. Het is niet al te lastig als je stap voor stap alles langs gaat. Wel heb ik nog
+  twijfels over of ik op de juiste plekken de juiste waarde heb gebruikt.
+  <img src="readme-images/Vraag1.png" width="375px" alt="Bij dit deel heb ik hulp nodig">
+
+  CSS:
+  Met de CSS ben ik nog niet ver gekomen. Ik wilde eigenlijk beginnen met de media querries, maar daar kom ik nog niet helemaal uit. Vooral
+  hoe je de content passend maakt voor in een klein scherm.
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Jaouad      
+    - Onduidelijk hoe ik een stukje content in moet delen in html(zie afbeelding) <img src="readme-images/Vraag1.png" width="375px" alt="Bij dit deel heb ik hulp nodig">
+    - Hulp nodig bij Media Querries. Content voor klein scherm.
+
+  | Chloe          
+    - Opmaak van menu in html zetten?
+    - H3 link maken die niet linkt naar een pagina.
+    - Hoe kan ik de li juist aanspreken om flexbasis en flexgrow toe te passen?
+
+  | Malik        
+    - Hoe moet ik een hamburger menu uitwerken in html?
+    - Wanneer bepaal je of iets een H2, H3 of P is?
+
+  | Donna        
+    - Hoe laat je een menu eruit komen als je er op klikt?
 
 
   ### Verslag van meeting
@@ -212,7 +232,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
 
 
-  ### Dit ging goed/Heb ik geleerd: 
+  ### Dit ging goed/Heb ik geleerd:
   Korte omschrijving met plaatjes
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
@@ -233,7 +253,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <details open>
   <summary>continu bijhouden terwijl je werkt</summary>
 
-  Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg). 
+  Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
