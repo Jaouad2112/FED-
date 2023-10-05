@@ -92,44 +92,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 
-
 ## Voortgang 1 (week 2)
 
 <details>
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
-
-  ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
-
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
-
-  ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
-
-</details>
-
-
-
-
-
-## Voortgang 2 (week 3)
-
-<details>
-  <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
   HTML:
@@ -172,6 +138,50 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 </details>
 
+
+## Voortgang 2 (week 3)
+
+<details>
+  <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
+
+  ### Stand van zaken
+  Ik loop helemaal vast met de css. Krijg er een totale blackout van. Ik heb moeite met het instellen van de juiste maten van de content en de plek van de content.
+
+  De custom fonts die ik in de css heb gezet pakt hij niet.
+
+  Tijdens de opdrachten en lessen lukt het op zich wel, maar zo in mijn eentje loop ik steeds vast.  
+
+
+  ### Agenda voor meeting
+  samen met je groepje opstellen
+
+  | Jaouad      
+    - Loop helemaal vast met CSS.
+    - Zijwaarts scrollen voorkomen.
+    - Positionering van content.
+    - Custom font pakt hij niet.
+    - Afbeeldingen sizen naar section/grid?
+    - Position absolute/relative gaat niet goed.
+
+  | Chloe          
+    - Hoe zorg ik ervoor dat mijn <form> de juiste grote is aan de hand van grid?
+
+  | Malik        
+    - Hoe zorg ik ervoor dat mijn gehele pagina, op uitzondering van één element dezelfde padding krijgt?
+    - Hoe zorg ik ervoor dat EM juist wordt vertaald naar PX?
+
+  | Donna        
+    - Hoe laat je een menu eruit komen als je er op klikt?
+
+  ### Verslag van meeting
+  hier na afloop snel de uitkomsten van de meeting vastleggen
+
+  - punt 1
+  - punt 2
+  - nog een punt
+  - ...
+
+</details>
 
 
 
